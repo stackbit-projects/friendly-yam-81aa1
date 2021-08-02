@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: VR Study
-  description: The preview of the Starter theme
+  description: This is a VR Study site.
   extra:
     - name: 'og:type'
       value: website
